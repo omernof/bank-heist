@@ -1,0 +1,11 @@
+Model Information:
+* title:	Office Worker
+* source:	https://sketchfab.com/3d-models/office-worker-d80ad59d1c8b41b3b08fe410285c4aa6
+* author:	Ahmad Zacky (https://sketchfab.com/ahmadzacky)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Office Worker" (https://sketchfab.com/3d-models/office-worker-d80ad59d1c8b41b3b08fe410285c4aa6) by Ahmad Zacky (https://sketchfab.com/ahmadzacky) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

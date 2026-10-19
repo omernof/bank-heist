@@ -1,0 +1,9 @@
+
+Bank interior (Sketchfab downloads, 2026-10-06) - see each model's Sketchfab page for author/licence:
+  Potted Plant Pack, Desk Set, Office Sofa Waiting Room, Montare Osgona Chandelier, Chandelier,
+  Victorian Framed Painting Game Ready, Framed Painting, Painting 3, Wall Clock, Water Dispenser
+
+Street extras + glTF models (Sketchfab, imported 2026-10-06; check each page for author/licence):
+  Parking Lot UF (jeeps, office building), Japanese Traffic Assets (jersey barriers, vending
+  machines, street bins), Old Street Store, City at Night (skyline), Loot Bag, 90s Retro Office
+  Pack, Low Poly Desk Flag Pack (see DeskFlags/LICENSE_DeskFlags.txt)
