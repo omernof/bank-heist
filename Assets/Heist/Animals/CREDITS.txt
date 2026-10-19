@@ -1,0 +1,4 @@
+Animals downloaded from Sketchfab (see each model page for author + license; credit required for CC-BY):
+- PigeonA: "Pigeon 3D Model" (Sketchfab) - animations: Idle, IdleLoop, Peck, Cooing, Walk, Left, Right, TakeOff, FlyLoop, Land, Circle
+- PigeonB: "3D Animated Pigeon Model" (Sketchfab) - animations: Walk, Bite, Look, JFly, Fly, Floating, Down
+flag_state.png: Flag of California, Wikimedia Commons (public domain). flag_usa.png: generated.

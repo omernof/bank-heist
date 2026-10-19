@@ -1,0 +1,16 @@
+Vehicle models downloaded from Sketchfab (sketchfab.com) under their authors'
+Creative Commons licenses. Credit to the original creators:
+
+- Fairheaven LT '80 Cop Cruiser  - Daniel Zhabotinsky (CC Attribution)
+- Dolphin Helicopter AS 365       - Martini-SF (CC Attribution-NonCommercial; used in a non-commercial student project)
+- Carbon Motors E7 Taxi / Police  - Sketchfab author of "Carbon Motors E7 (Cities Skylines)"
+- City Bus (RoAZ 5236)            - Sketchfab author of "City Bus Rigged"
+- Ambulance                       - Sketchfab author of "Ambulance"
+- Panel van, LCT 3000 box truck, armored truck, lifted pickup ("Low Poly Model" series) - Sketchfab author
+- BMW M4 CSL                      - Sketchfab author of "BMW M4 CSL"
+- Three Cylinder Naked Street Bike - Sketchfab author
+
+Characters & animations: Mixamo (Adobe). Kenney Car Kit (CC0) used as fallback.
+Fonts: Bebas Neue, Barlow Condensed, Anton (SIL Open Font License).
+
+ChevyVan (getaway van) - "2003 Chevrolet Express Cargo Van", downloaded from Sketchfab by the project owner (Oct 2026). See the model's Sketchfab page for author and licence.

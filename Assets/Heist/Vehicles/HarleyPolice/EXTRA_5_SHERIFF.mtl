@@ -1,0 +1,378 @@
+# rebuilt for Unity: the download shipped the .obj without its .mtl;
+# textures matched to the usemtl names (name before '__')
+
+newmtl Default_Material
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.60 0.60 0.60
+
+newmtl belt
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd belt.png
+
+newmtl black1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl black1__env_2_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl black1__env_4_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl black1__env_7_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl black1__spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl black_1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.04 0.04 0.04
+
+newmtl blue__env_7_spec_trans_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.10 0.25 0.80
+
+newmtl bron__env_16_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl bron__env_18_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl bron__env_21_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl bron__env_22_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl bron__env_25_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl bron__env_26_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd bron.png
+
+newmtl carpback
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.08 0.08 0.08
+
+newmtl carplate
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.90 0.90 0.85
+
+newmtl chrome2__env_2_trans_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd chrome2.png
+
+newmtl chrome2__env_6_spec_trans_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd chrome2.png
+
+newmtl chrome2__env_8_spec_trans_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd chrome2.png
+
+newmtl diavel_disk__env_21_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd diavel_disk.png
+
+newmtl dmetal__env_3_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd dmetal.png
+
+newmtl dyna_mat1__spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd dyna_mat1.png
+
+newmtl dyna_twin_cam__env_2_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd dyna_twin_cam.png
+
+newmtl filter2
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd filter2.png
+
+newmtl hdunlop
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd hdunlop.png
+
+newmtl hpolice3__env_3_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd hpolice33.png
+
+newmtl hpolice4__env_3_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd hpolice4_-_Copy.png
+
+newmtl hpolice__env_3_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd hp.png
+
+newmtl hre__env_2_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.70 0.10 0.10
+
+newmtl indicatorhd
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd indicatorhd.png
+
+newmtl interiorhd
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd interiorhd.png
+
+newmtl interiorhd__env_16_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd interiorhd.png
+
+newmtl med__env_7_spec_trans_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.75 0.75 0.78
+
+newmtl mirorglass__env_50_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.80 0.85 0.90
+
+newmtl nise__env_1_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd nise.png
+
+newmtl nise__spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd nise.png
+
+newmtl rac1__env_3_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd rac1.png
+
+newmtl rac2__env_1_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd rac2.png
+
+newmtl reflector_red
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd reflector_red.png
+
+newmtl reflector_yel
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd reflector_yel.png
+
+newmtl roof
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd roof.png
+
+newmtl supdot
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd supdot.png
+
+newmtl tirehd
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd tirehd.png
+
+newmtl vehiclelights128__FR_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd vehiclelights128.png
+
+newmtl vehiclelights128__RR_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 1 1 1
+map_Kd vehiclelights128.png
+
+newmtl white1__env_3_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.95 0.95 0.95
+
+newmtl white__prim_env_6_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.95 0.95 0.95
+
+newmtl white__sec_env_6_spec_
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+d 1
+Kd 0.95 0.95 0.95
